@@ -1,2 +1,3 @@
 var a = 1;
 var b = "learn" + "git";
+var c = true;
